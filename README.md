@@ -1,1 +1,11 @@
 # Call-Centre-Performance-Report
+This is an individual project using PowerBi where I have created an interactive dashboard to track and analyse the performance of different agents in a Call Centre.
+  - Used various parameters to drill down into the worksheet and customize it using filters and slicers.
+  - Used different types of customized visualizations like bar charts, pie charts and cards.
+
+Using the aforementioned parameters I was able to analyse the following KPIs:
+  - Overall customer satisfaction
+  - Overall calls answered/abandoned
+  - Calls by time
+  - Average speed of answer
+  - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
